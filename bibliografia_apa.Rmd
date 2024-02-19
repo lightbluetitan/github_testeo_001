@@ -1,7 +1,7 @@
 ---
-title: "Diagramas de Barras"
-author: "Renzo Cáceres Rossi"
-date: "2022/05/18"
+title: "Diagramas de Barras - Bar Charts"
+author: "Filipa Cáceres Rossi"
+date: "2024/02/19"
 subtitle: Bar Charts
 phone: '51917337684'
 email: arenzocaceresrossi@gmail.com
